@@ -1,0 +1,9 @@
+streamlit
+pandas
+pyyaml
+jsonschema
+google-generativeai
+python-dotenv
+altair
+matplotlib
+scikit-learn 
